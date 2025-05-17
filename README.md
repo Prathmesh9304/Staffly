@@ -25,7 +25,7 @@ The Staffly UI is designed for ease of use and quick access to key information. 
 - **Pending Leaves:** Highlighting the number of leave requests awaiting approval.
 - **Payroll Status:** A summary of paid and unpaid payroll counts.
 
-*(Refer to the screenshot above for a visual representation.)*
+_(Refer to the screenshot above for a visual representation.)_
 
 ## 🛠️ Technologies Used
 
@@ -38,27 +38,31 @@ Staffly is built using the following technologies:
 ## 💻 Getting Started (Example - Adjust as needed)
 
 1.  **Clone the repository:**
+
     ```bash
     git clone <repository_url>
     cd Staffly
     ```
 
 2.  **Install backend dependencies:**
+
     ```bash
     cd backend
     npm install
     ```
 
 3.  **Install frontend dependencies:**
+
     ```bash
     cd ../frontend
     npm install
     ```
 
 4.  **Set up the SQLite database:**
-    *(Provide specific instructions here, e.g., running migrations or initial setup scripts)*
+    _(Provide specific instructions here, e.g., running migrations or initial setup scripts)_
 
 5.  **Run the backend server:**
+
     ```bash
     cd ../backend
     npm start
@@ -70,7 +74,7 @@ Staffly is built using the following technologies:
     npm start
     ```
 
-## 📄 Documentation
+<!-- ## 📄 Documentation
 
 *(Link to your project's detailed documentation if you have one)*
 
@@ -80,7 +84,7 @@ Staffly is built using the following technologies:
 
 ## 📜 License
 
-*(Specify the license under which your project is distributed)*
+*(Specify the license under which your project is distributed)* -->
 
 ---
 
